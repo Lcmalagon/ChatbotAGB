@@ -15,16 +15,9 @@ setup(
         'python-multipart',
         'tiktoken',
         'sqlalchemy',
-<<<<<<< HEAD
-        # Add streamlit and pandas to the list of required packages
-        'streamlit',
-        'pandas',
-        # If you are using any other specific libraries, add them here as well
-=======
         'streamlit',
         'pandas',
         'gpt4all',
     
->>>>>>> 4079ef4 (Initial commit)
     ],
 )

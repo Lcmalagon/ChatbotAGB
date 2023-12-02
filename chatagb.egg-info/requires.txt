@@ -1,0 +1,10 @@
+langchain>=1.0
+openai>=1.0
+chromadb>=1.0
+kaleido>=1.0
+python-multipart>=1.0
+tiktoken>=1.0
+sqlalchemy>=1.4
+streamlit>=1.0
+pandas>=1.2
+gpt4all>=1.0

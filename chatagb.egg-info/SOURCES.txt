@@ -1,0 +1,6 @@
+setup.py
+chatagb.egg-info/PKG-INFO
+chatagb.egg-info/SOURCES.txt
+chatagb.egg-info/dependency_links.txt
+chatagb.egg-info/requires.txt
+chatagb.egg-info/top_level.txt
